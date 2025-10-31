@@ -18,16 +18,45 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science Engineering student** with hands-on experience in **cloud technologies, cybersecurity, and full-stack development**. I love building projects that solve real-world problems and exploring cutting-edge technologies.
+I'm a passionate **Computer Science Engineering student** with hands-on experience in **cloud technologies, cybersecurity, AI/ML, and full-stack development**. I love building projects that solve real-world problems and exploring cutting-edge technologies.
 
-- 🔭 Currently working on: **Advanced threat intelligence platforms**
-- 🌱 Learning: **Kubernetes, Advanced Cybersecurity, AI/ML**
-- 🎯 2025 Goals: **Contribute to open-source, master cloud security**
+- 🔭 Currently working on: **AI-powered gesture recognition & threat intelligence platforms**
+- 🌱 Learning: **Kubernetes, Advanced Cybersecurity, Deep Learning with PyTorch**
+- 🎯 2025 Goals: **Contribute to open-source, master cloud security & computer vision**
 - ⚡ Fun fact: **Won 1st place in Emirates Aviation Rocket-Building Competition 🚀**
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
+
+### 🎮 [Clash Emote Detector](https://github.com/ParthSalunkhe7052/Clash-Emote-Detector)
+
+**Real-time gesture recognition system for Clash Royale emotes using AI and computer vision**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+**Key Features:**
+- 🎯 **95%+ Accuracy** with advanced neural networks (Model 4 Ultimate)
+- 🎭 **7 Built-in Emotes** + unlimited custom emote support
+- 📸 **Real-time Detection** at 15-30 FPS with pose estimation
+- 🧠 **Multiple AI Models** (RandomForest, Neural Networks, Advanced 128-D embeddings)
+- 🎨 **Modern Web Interface** with glassmorphism design
+- 🔊 **Dynamic Audio System** with confidence-based volume scaling
+- ⚙️ **Full Configuration** - camera selection, model switching, detection tuning
+
+**Tech Stack:** PyTorch, MediaPipe, Flask, Socket.IO, OpenCV, scikit-learn, TailwindCSS
+
+[🔗 View Project →](https://github.com/ParthSalunkhe7052/Clash-Emote-Detector)
+
+---
 
 ### 🌐 [DDoS Globe Visualizer](https://github.com/ParthSalunkhe7052/ddos-globe-visualizer)
 
@@ -82,10 +111,17 @@ I'm a passionate **Computer Science Engineering student** with hands-on experien
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### AI/ML & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Cloud & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -97,12 +133,15 @@ I'm a passionate **Computer Science Engineering student** with hands-on experien
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Microsoft Dynamics](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### Core Competencies
 - 💡 **Data Structures & Algorithms**
 - 🏗️ **System Design & OOP**
 - 🔐 **Cybersecurity & Network Security**
-- 🤖 **AI/ML Fundamentals**
+- 🤖 **Machine Learning & Deep Learning**
+- 👁️ **Computer Vision & Pose Estimation**
+- 🌐 **Real-time Web Applications**
 
 </div>
 
