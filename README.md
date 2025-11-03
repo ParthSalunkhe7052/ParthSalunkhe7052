@@ -20,7 +20,7 @@
 
 I'm a passionate **Computer Science Engineering student** with hands-on experience in **cloud technologies, cybersecurity, AI/ML, and full-stack development**. I love building projects that solve real-world problems and exploring cutting-edge technologies.
 
-- 🔭 Currently working on: **AI-powered gesture recognition & threat intelligence platforms**
+- 🔭 Currently working on: **AI-powered security testing & threat intelligence platforms**
 - 🌱 Learning: **Kubernetes, Advanced Cybersecurity, Deep Learning with PyTorch**
 - 🎯 2025 Goals: **Contribute to open-source, master cloud security & computer vision**
 - ⚡ Fun fact: **Won 1st place in Emirates Aviation Rocket-Building Competition 🚀**
@@ -28,6 +28,36 @@ I'm a passionate **Computer Science Engineering student** with hands-on experien
 ---
 
 ## 🌟 Featured Projects
+
+### 🔥 [ASURA - AI SecureLab](https://github.com/ParthSalunkhe7052/Asura-Security-Scan)
+
+**Privacy-first security testing tool with AI-powered vulnerability analysis**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+**Key Features:**
+- 🔒 **Multi-Scanner Integration** - Bandit, Safety, and Semgrep for comprehensive security analysis
+- 🤖 **AI-Powered Explanations** - OpenRouter API with 4-model fallback for vulnerability insights
+- 📊 **Code Quality Metrics** - Radon complexity analysis and pytest coverage tracking
+- 💯 **Health Scoring System** - A-F grades based on security and coverage metrics
+- 📈 **Scan Comparison** - Compare security scans side-by-side with trend analysis
+- 🎨 **Modern Dashboard** - Beautiful React UI with real-time scan progress
+- 🔐 **100% Local & Private** - All scans run locally, your code never leaves your machine
+- 📤 **Export Reports** - Generate JSON and HTML reports with embedded analytics
+
+**Tech Stack:** FastAPI, React 18, Vite, TailwindCSS, SQLAlchemy, Bandit, Semgrep, Safety, OpenRouter AI
+
+[🔗 View Project →](https://github.com/ParthSalunkhe7052/Asura-Security-Scan)
+
+---
 
 ### 🎮 [Clash Emote Detector](https://github.com/ParthSalunkhe7052/Clash-Emote-Detector)
 
@@ -115,6 +145,7 @@ I'm a passionate **Computer Science Engineering student** with hands-on experien
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ### AI/ML & Computer Vision
@@ -130,6 +161,7 @@ I'm a passionate **Computer Science Engineering student** with hands-on experien
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases & Tools
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Microsoft Dynamics](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
@@ -139,9 +171,11 @@ I'm a passionate **Computer Science Engineering student** with hands-on experien
 - 💡 **Data Structures & Algorithms**
 - 🏗️ **System Design & OOP**
 - 🔐 **Cybersecurity & Network Security**
+- 🛡️ **Security Testing & Vulnerability Analysis**
 - 🤖 **Machine Learning & Deep Learning**
 - 👁️ **Computer Vision & Pose Estimation**
 - 🌐 **Real-time Web Applications**
+- 🔍 **Static Code Analysis & Security Scanning**
 
 </div>
 
