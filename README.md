@@ -230,7 +230,7 @@ I'm a passionate **Computer Science Engineering student** with hands-on experien
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:Parth.ajit7052@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ParthSalunkhe7052)
 
-**📞 Phone:** +91 8527837059
+
 
 </div>
 
