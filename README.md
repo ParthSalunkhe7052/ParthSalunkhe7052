@@ -41,7 +41,13 @@ I'm a **Computer Science Engineering student** specializing in the intersection 
 
 ## 🌟 Featured Projects
 
-### 🔥 [ASURA - AI SecureLab](https://github.com/ParthSalunkhe7052/Asura-Security-Scan)
+### SAAS & SOFTWARE PROJECTS CodeVault (codevault.parth7.me) | Python, FastAPI, React, GCP, Nuitka
+-	**full-stack SaaS platform** that compiles Python and Node.js applications into secure native C binaries.
+-	Architected a highly scalable backend utilizing FastAPI, SQLAlchemy, and Redis to manage enterprise licensing (offline leases, floating licenses, HWID locking).
+-	Refactoring the React/TypeScript frontend deployed via Vercel to optimize the user dashboard experience.
+
+
+###  [ASURA - AI SecureLab](https://github.com/ParthSalunkhe7052/Asura-Security-Scan)
 **Privacy-first security testing tool with AI-powered vulnerability analysis**
 
 *Solved the problem of fragmented security testing by unifying multiple scanners into a single, local pipeline.*
