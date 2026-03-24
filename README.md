@@ -42,7 +42,7 @@ I'm a **Computer Science Engineering student** specializing in the intersection 
 ## 🌟 Featured Projects
 
 ### SAAS & SOFTWARE PROJECTS CodeVault (codevault.parth7.me) | Python, FastAPI, React, GCP, Nuitka
--	**full-stack SaaS platform** that compiles Python and Node.js applications into secure native C binaries.
+-	**Full-stack SaaS platform** that compiles Python and Node.js applications into secure native C binaries.
 -	Architected a highly scalable backend utilizing FastAPI, SQLAlchemy, and Redis to manage enterprise licensing (offline leases, floating licenses, HWID locking).
 -	Refactoring the React/TypeScript frontend deployed via Vercel to optimize the user dashboard experience.
 
