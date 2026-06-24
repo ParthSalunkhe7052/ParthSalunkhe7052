@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Parth Salunkhe
 
-### 🎓 Computer Science Engineering Student | 💻 Cloud, Cybersecurity & AI Enthusiast
+### 🎓 B.Tech in Computer Engineering | 💻 Cloud, Cybersecurity & AI Systems Builder
 
-📍 Delhi Technological University | 2023 – 2027
+📍 Delhi Technological University (DTU) | Class of 2027
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-salunkhe-029a491a4)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Parth.ajit7052@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/ParthSalunkhe7052)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:parth.ajit7052@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-100000?style=flat-square&logo=github&logoColor=white)](https://parth7.me)
 
 </div>
 
@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering student** specializing in the intersection of **Cybersecurity and AI**. I focus on building tools that solve complex security problems using machine learning and cloud infrastructure.
+I'm a **Computer Engineering student** building at the intersection of **Systems Programming, Cybersecurity, and AI Orchestration**. I focus on replacing static signatures with intelligent agents, securing software pipelines, and building business-grade B2B platforms.
 
-- 🔭 Currently working on: **Refining ASURA for v2 release & Advanced Threat Intelligence**
-- 🌱 Learning: **Kubernetes Orchestration, Advanced Network Security, PyTorch Deep Learning**
-- 🎯 Goal: **Contribute to major open-source security tools and master Cloud Security**
+- 🔭 Currently working on: **Autonomous Security Agents & Threat-Aware Workflows (LastResort)**
+- 🌱 Learning: **Kubernetes Orchestration, Go Systems Design, Advanced Threat Intelligence**
+- 🎯 Goal: **Contribute to major security infrastructure and build scalable SaaS solutions**
 
 ---
 
@@ -28,68 +28,58 @@ I'm a **Computer Science Engineering student** specializing in the intersection 
 
 ### 🏢 **Alfazance** | *Software Engineering Intern*
 **May 2025 – June 2025 | Dubai, UAE**
-- **Automated Enterprise Workflows:** Engineered complex automation scripts using **Power Automate** and **Microsoft Dynamics 365**, significantly reducing manual data processing time.
-- **Infrastructure Management:** Administered **Proxmox** virtualization environments and **Linux** subsystems, optimizing resource allocation for development servers.
-- **Search Optimization:** Implemented **Elasticsearch** configurations to improve data retrieval speeds for internal tools.
+- **Automated Enterprise Workflows:** Developed automated business logic triggers using **Microsoft Power Automate** and **Dynamics 365**, reducing manual administrative tasks.
+- **Search Optimization:** Engineered large-scale client dataset integrations into **Elasticsearch** configurations for advanced analytics.
+- **Infrastructure:** Configured development instances within **Proxmox** virtual environments and **Linux** subsystems.
 
 ### 🏢 **TLS IT Solutions** | *Technical Intern*
 **June 2022 – July 2022 | Dubai, UAE**
-- Conducted technical needs analysis for enterprise clients, directly influencing the architecture of proposed IT solutions.
-- Collaborated with network engineers to streamline deployment strategies for client infrastructure.
+- Supported technical needs analysis and collaborated with engineers on network infrastructure deployments for enterprise client environments.
 
 ---
 
 ## 🌟 Featured Projects
 
-### SAAS & SOFTWARE PROJECTS CodeVault (codevault.parth7.me) | Python, FastAPI, React, GCP, Nuitka
--	**Full-stack SaaS platform** that compiles Python and Node.js applications into secure native C binaries.
--	Architected a highly scalable backend utilizing FastAPI, SQLAlchemy, and Redis to manage enterprise licensing (offline leases, floating licenses, HWID locking).
--	Refactoring the React/TypeScript frontend deployed via Vercel to optimize the user dashboard experience.
+### 🛡️ [LastResort — Autonomous Web Penetration-Testing Agent](https://github.com/ParthSalunkhe7052)
+*Go, Playwright, ConnectRPC, SQLite*
 
+*An autonomous vulnerability scanner that replaces static rules with an intelligent AI execution loop.*
 
-###  [ASURA - AI SecureLab](https://github.com/ParthSalunkhe7052/Asura-Security-Scan)
-**Privacy-first security testing tool with AI-powered vulnerability analysis**
-
-*Solved the problem of fragmented security testing by unifying multiple scanners into a single, local pipeline.*
-
-- **Unified Scanning:** Orchestrates Bandit, Safety, and Semgrep for comprehensive static analysis.
-- **AI Analysis:** distinct integration with OpenRouter API to provide context-aware fixes for vulnerabilities.
-- **Metric Visualization:** Generates detailed health scores (A-F) and code complexity reports (Radon).
-- **Privacy First:** 100% local execution ensuring proprietary code never leaves the machine.
-
-**🛠 Tech Stack:** Python, FastAPI, React 18, TailwindCSS, SQLAlchemy, Docker
-
-[🔗 View Project →](https://github.com/ParthSalunkhe7052/Asura-Security-Scan)
+- **LLM-Driven Planning:** Integrates Gemini/OpenRouter to formulate hypotheses, plan multi-step attacks, and generate custom exploit payloads.
+- **Real-Effect Verification:** Uses Playwright to execute payloads in a headless browser, verifying vulnerabilities via actual DOM changes and script executions to reduce false positives by 95%.
+- **Persistent State:** Implements an SQLite-backed session journal tracking AXTree (Accessibility Tree) history for stateful exploit sequences.
 
 ---
 
-### 🎮 [Clash Emote Detector](https://github.com/ParthSalunkhe7052/Clash-Emote-Detector)
-**Real-time gesture recognition system using Computer Vision**
+### 🧠 [NeuroBrain — AI CRO & Creative Attention Platform](https://github.com/ParthSalunkhe7052)
+*FastAPI, PyTorch, React, Python*
 
-*A low-latency computer vision application capable of detecting specific gaming gestures in real-time.*
+*Predicts visual fixations on marketing images and outputs concrete layout edits instead of raw, uninterpreted heatmaps.*
 
-- **High Precision:** Achieved **95%+ accuracy** using custom-trained neural networks on 128-D embeddings.
-- **Performance:** Optimized for 30 FPS real-time detection using MediaPipe pose estimation.
-- **Adaptive Audio:** Dynamic volume scaling based on confidence intervals of the detected gesture.
-
-**🛠 Tech Stack:** Python, PyTorch, OpenCV, MediaPipe, Flask, Socket.IO
-
-[🔗 View Project →](https://github.com/ParthSalunkhe7052/Clash-Emote-Detector)
+- **Fixation Prediction:** Fuses PyTorch-based visual attention maps with OCR coordinate extraction.
+- **multimodal LLM Fusion:** Compiles coordinate data and textual content into visual LLM contexts to output precise design modifications.
+- **High Performance:** Designed a FastAPI backend supporting batch uploads, processing images in under 15 seconds.
 
 ---
 
-### 🌐 [DDoS Globe Visualizer](https://github.com/ParthSalunkhe7052/ddos-globe-visualizer)
-**3D Real-time Threat Intelligence Platform**
+### 💼 [SoulMen — B2B Tender Compliance SaaS](https://github.com/ParthSalunkhe7052)
+*FastAPI, React, PostgreSQL*
 
-*Visualizes complex network traffic and attack vectors on an interactive 3D globe for simplified threat monitoring.*
+*Automates document verification against UAE client portal requirements to prevent pre-submission disqualification.*
 
-- **Live Data Streaming:** WebSocket integration for sub-second visualization of cyber attacks.
-- **Threat Intelligence:** Aggregates data from AbuseIPDB and AlienVault OTX for accurate attribution.
-- **Geo-Mapping:** Real-time IP-to-Geo conversion rendering attack trajectories in 3D space.
+- **Compliance Engine:** Encodes DEWA, Emaar, and ADNOC requirement sets to validate licenses, HSE manuals, and bank letters.
+- **Name-Mismatch Detector:** Uses LLM extraction paired with Jaro-Winkler string-matching to flag name variations and certificate expirations.
+- **Contractor Workbench:** Built an interactive React dashboard that analyzes packages and issues a Submission Readiness Score.
 
-**🛠 Tech Stack:** React, Three.js, FastAPI, WebSockets, MaxMind GeoIP
+---
 
-[🔗 View Project →](https://github.com/ParthSalunkhe7052/ddos-globe-visualizer)
+### 🧪 [ASURA - AI SecureLab](https://github.com/ParthSalunkhe7052/Asura-Security-Scan)
+*FastAPI, React 18, Python, Semgrep, Bandit*
+
+*Privacy-first vulnerability analysis platform providing local source code security checks.*
+
+- **Static Scanner Pipeline:** Wraps Semgrep and Bandit in isolated environments to scan codebases without raw CLI noise.
+- **Contextual Explanations:** Explains static analysis vulnerabilities in developer-friendly terms and suggests concrete remediations.
 
 ---
 
@@ -97,20 +87,20 @@ I'm a **Computer Science Engineering student** specializing in the intersection 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C++, JavaScript, SQL |
-| **AI & Vision** | PyTorch, OpenCV, MediaPipe, Scikit-learn, Pandas |
-| **Web & Backend** | React, FastAPI, Flask, Node.js, TailwindCSS |
-| **Cloud & DevOps** | Linux, Docker, Kubernetes, Proxmox, Git |
-| **Security & DB** | Network Security, Static Analysis, SQLite, Elasticsearch |
+| **Languages** | Go, Python, C++, SQL, JavaScript, TypeScript |
+| **Web & Backend** | React / Next.js, FastAPI, Node.js, ConnectRPC, REST APIs, WebSockets |
+| **AI & Vision** | PyTorch, OpenCV, MediaPipe, RAG, Vector Embeddings, LLM Agents |
+| **Cloud & DevOps** | Linux, Docker, GCP, GitHub Actions CI/CD, Proxmox, Vercel |
+| **Security & Database** | LLM Agent Planning, Static Analysis (Semgrep, Bandit), PostgreSQL, SQLite, Redis, Elasticsearch |
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 **Top 5 Finalist** – DTU Hackathon 2024
-- 🤖 **UGV Tech Team** – Top 5 at UGVC (ICMTC, Cairo) + Best Presentation Award
+- 🤖 **UGV Tech Team** – Top 5 at UGVC (ICMTC, Cairo) + Best Presentation Award representing India
 - 🥇 **1st Place** – Emirates Aviation Rocket-Building Competition (Engineering Design)
-- 🎤 **Tech Volunteer** – College Technical Festival Organizer
+- 🏅 **Top 5 Finalist** – DTU Hackathon 2024
+- 🎓 **Google Cybersecurity Certificate** (2025)
 
 ---
 
@@ -126,16 +116,9 @@ I'm a **Computer Science Engineering student** specializing in the intersection 
 
 ---
 
-## 📚 Education
-
-**Delhi Technological University**
-*B.Tech in Computer Engineering* | 2023 – 2027
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/parth-salunkhe-029a491a4)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:Parth.ajit7052@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:parth.ajit7052@gmail.com)
 
 </div>
